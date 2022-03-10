@@ -6,7 +6,7 @@ fun main() {
     var s=statement("Mary", 24)
     println(s)
 
-    var state=state("Mellisa")
+    var state=("Mellisa")
     println(state.length)
 
 }
